@@ -97,6 +97,7 @@ class RadMovieDialog(
             binding.spRating.adapter = adapter
             binding.spRating.setSelection(adapter.getPosition(radMovie.rating))
             saveButton?.isEnabled = false
+
         }
 
         dialog = if(newRadMovie){

@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        repository = (application as RadMoviesDBApp).repository
+        repository = (application as com.darooma.radmoviesdbp1.application.RadMoviesDBApp).repository
 
         radMovieAdapter = RadMovieAdapter(){ movie ->
             radMovieClicked(movie)
