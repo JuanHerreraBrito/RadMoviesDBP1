@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ratings_array">
+        <item> - - </item>
+        <item>desconocido</item>
+        <item>aa</item>
+        <item>a</item>
+        <item>b</item>
+        <item>b15</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+</resources>

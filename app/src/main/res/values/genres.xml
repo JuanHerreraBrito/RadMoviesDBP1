@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="genres_array">
+    <item> - - </item>
+    <item>desconocido</item>
+    <item>action</item>
+    <item>adventure</item>
+    <item>scifi</item>
+    <item>comedy</item>
+    <item>terror</item>
+</string-array>
+</resources>

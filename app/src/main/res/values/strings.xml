@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RadMoviesDBP1</string>
+    <string name="director">Director</string>
+    <string name="Producer">Productora</string>
+    <string name="ngrl_title">Título</string>
+    <string name="gnrl_producer">Productora</string>
+    <string name="gnrl_director">Director</string>
+    <string name="gnrl_movie">Pelicula</string>
+    <string name="desc_gnre">Insertar lista de generos de peliculas</string>
+    <string name="desc_ratings">Insertar lista de clasificasiones</string>
+    <string name="gnrl_img_Genre">Imagen del genero</string>
+    <string name="gnrl_placeholdermovie">Título de la Película</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="msg_saved_movie">Pelicula guardada exitosamente</string>
+    <string name="msg_error_saving">Error al guardar la pelicula</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_delete">Borrar</string>
+    <string name="msg_updated">Pelicula actualizada exitosamente</string>
+    <string name="msg_update_error">Error al actualizar la pelicula</string>
+    <string name="msg_confirm">Confirmación</string>
+    <string name="msg_confirm_to_delete">Realmente deseas eliminar la pelicula</string>
+    <string name="btn_acept">Aceptar</string>
+    <string name="msg_movie_deleted">Pelicula eliminada exitosamente</string>
+    <string name="msg_error_deleting">Error al eliminar la Pelicula</string>
+</resources>
